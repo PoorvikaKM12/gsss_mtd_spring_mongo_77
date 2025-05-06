@@ -1,0 +1,6 @@
+show dbs
+
+use mongo_basics;
+
+db.createCollection("car_parking");
+
